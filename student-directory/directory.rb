@@ -10,7 +10,4 @@ puts "Terminator"
 puts "Freddy Kruger"
 puts "The Joker"
 #finally, we print the total
-print "Overall, we have"
-#it's important that print() doesn't add new line characters
-print 9
-puts " great students"
+print "Overall, we have #{student_count} great students"
